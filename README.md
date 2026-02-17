@@ -8,3 +8,6 @@ Compare the .txt files and see for yourself which files were altered.
 
 I did the whole 2 hours process on my Facbook profile stream.
 https://www.facebook.com/share/v/1Bibd3VnMX/
+Feb. 18, 2026 - Since then I don't really remember when exactly the Facebbok rule of livestream automated deletion after 30 days was implemented but I was aware of it through seeing the notification when it first came up on my Facebook account.
+So I re-uploaded to youtube as out of respect to Microsoft's GitHub's servers regarding this Video File:
+https://www.youtube.com/watch?v=X60bojJXn4s
